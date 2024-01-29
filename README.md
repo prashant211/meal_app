@@ -23,8 +23,15 @@ A flutter App  that basically have hte list of some dishes recipes according to 
 
 # Home Screen
 
-![expense](https://github.com/prashant211/expense/assets/108564234/6dd1be16-e6f9-4b54-bb42-34cdfced62be)
+![meal_category](https://github.com/prashant211/meal_app/assets/108564234/28c67e34-def9-4388-b362-1806402cd684)
 
-# Add to Expense Page
 
-![expense2](https://github.com/prashant211/expense/assets/108564234/4bb31a69-8726-425f-93c1-bf8883911242)
+# Meal screen
+
+![meal1](https://github.com/prashant211/meal_app/assets/108564234/1f8dde19-4ee8-4fe9-a8ae-42fbe1f38ff1)
+
+# Meals Details screen
+
+![meal](https://github.com/prashant211/meal_app/assets/108564234/9c5cdb02-ece2-4cc1-80dc-74f1967f24de)
+
+
