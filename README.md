@@ -32,6 +32,8 @@ A flutter App  that basically have hte list of some dishes recipes according to 
 
 ## Demo Video
 
+https://github.com/prashant211/meal_app/assets/108564234/87b7d8d4-d25f-4c08-adf3-b888213e1200
+
 
 # Meals Details screen
 
